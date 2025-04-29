@@ -1,0 +1,80 @@
+body {
+    background: linear-gradient(to bottom, #f0f8e2, #ffffff);
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: #E5E5E5;
+    padding: 15px;
+    border-radius: 10px;
+    border-left: 6px solid #588e30;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    margin: 20px 0;
+    letter-spacing: 1px;
+}
+
+.title-pref {
+    text-align: center;
+    background-color: #E5E5E5;
+    border-left: 6px solid #588e30;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+    font-size: 1.2em;
+    font-weight: bold;
+    color: black;
+}
+
+.secretaria {
+    border: 3px solid #588e30;
+    padding: 12px;
+    margin: 12px auto;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.2);
+    width: 80%;
+}
+
+.function {
+    background-color: #E5E5E5;
+    border-left: 6px solid #588e30;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.2);
+}
+
+.function h3 {
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.fonte {
+    font-size: 15px;
+    color: #222;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.cargo {
+    font-weight: normal;
+    color: #555;
+    font-size: 0.95em;
+}
+
+.espaco {
+    margin-left: 4px;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.espaco:hover {
+    text-decoration: underline;
+    color: #588e30;
+}
